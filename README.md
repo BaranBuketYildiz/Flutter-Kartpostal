@@ -36,14 +36,6 @@ Bu Flutter uygulaması, kullanıcılara hediye olarak Flutter simgesini içeren 
    ```bash
    flutter run
  
-## Katkıda Bulunma
 
-Katkılarınızı memnuniyetle karşılıyoruz! Katkıda bulunmak için aşağıdaki adımları izleyin:
 
-1. Bu projeyi fork edin.
-2. Yeni bir dal (branch) oluşturun: `git checkout -b feature/your-feature`
-3. Değişikliklerinizi yapın ve bunları işleyin: `git commit -m 'Add some feature'`
-4. Dalınıza itme yapın: `git push origin feature/your-feature`
-5. Bir Pull Talebi (Pull Request) oluşturun.
-
-Umarım bu README.md dosyası sizin için yeterli olmuştur. Herhangi bir sorunuz varsa lütfen bana bildirin. İyi çalışmalar!
+Umarım bu README.md dosyası sizin için yeterli olmuştur. İyi çalışmalar!
