@@ -20,11 +20,12 @@ Bu Flutter uygulaması, kullanıcılara hediye olarak Flutter simgesini içeren 
    ```bash
    git clone `https://github.com/your-username/kartPostal.git`
 
+
 2. Proje dizinine gidin:
 
+   ```bash
+   cd kartpostal
 
-```bash
-cd kartpostal
 
 3.Gerekli bağımlılıkları yükleyin:
 ```shell
