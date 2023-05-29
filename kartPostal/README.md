@@ -17,6 +17,7 @@ Bu Flutter uygulaması, kullanıcılara hediye olarak Flutter simgesini içeren 
 ## Kurulum
 
 1. Bu projeyi klonlayın:
+ ```bash
 git clone https://github.com/your-username/kartPostal.git
 
 2. Proje dizinine gidin:
@@ -24,9 +25,11 @@ git clone https://github.com/your-username/kartPostal.git
 cd kartpostal
 
 3. Gerekli bağımlılıkları yükleyin:
+ ```bash
  flutter pub get
 4. Uygulamayı başlatın:
- flutter run
+```bash
+flutter run
  
 ## Katkıda Bulunma
 
