@@ -21,14 +21,11 @@ Bu Flutter uygulaması, kullanıcılara hediye olarak Flutter simgesini içeren 
 git clone https://github.com/your-username/kartPostal.git
 
 2. Proje dizinine gidin:
-```bash
 cd kartpostal
 
 3. Gerekli bağımlılıkları yükleyin:
- ```bash
  flutter pub get
 4. Uygulamayı başlatın:
-```bash
 flutter run
  
 ## Katkıda Bulunma
