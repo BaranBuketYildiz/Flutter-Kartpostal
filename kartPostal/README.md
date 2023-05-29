@@ -31,10 +31,10 @@ Bu Flutter uygulaması, kullanıcılara hediye olarak Flutter simgesini içeren 
    ```bash
    flutter pub get
 
-4.  Uygulamayı başlatın:
+4. Uygulamayı başlatın:
 
    ```bash
-  flutter run
+   flutter run
 
 
 
