@@ -36,9 +36,6 @@ Bu Flutter uygulaması, kullanıcılara hediye olarak Flutter simgesini içeren 
    ```bash
    flutter run
 
-
-
-
  
 ## Katkıda Bulunma
 
