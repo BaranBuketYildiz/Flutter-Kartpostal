@@ -24,7 +24,7 @@ Bu Flutter uygulaması, kullanıcılara hediye olarak Flutter simgesini içeren 
 ```shell
 cd kartpostal
 
-3. Gerekli bağımlılıkları yükleyin:
+3.Gerekli bağımlılıkları yükleyin:
 ```shell
  flutter pub get
 
