@@ -18,10 +18,6 @@ Bu Flutter uygulaması, kullanıcılara hediye olarak Flutter simgesini içeren 
 
    ```bash
    git clone https://github.com/BaranBuketYildiz/Flutter-Kartpostal
-1. Bu projeyi klonlayın:
-
-   ```bash
-git clone https://github.com/BaranBuketYildiz/Flutter-Kartpostal
 
 
 2. Proje dizinine gidin:
