@@ -26,11 +26,14 @@ cd kartpostal
 
 3.Gerekli bağımlılıkları yükleyin:
 ```shell
- flutter pub get
+
+
 
 4. Uygulamayı başlatın:
 ```shell
 flutter run
+
+
  
 ## Katkıda Bulunma
 
