@@ -19,7 +19,6 @@ Bu Flutter uygulaması, kullanıcılara hediye olarak Flutter simgesini içeren 
 1. Bu projeyi klonlayın:
  ```bash
 git clone https://github.com/your-username/kartPostal.git
-
 2. Proje dizinine gidin:
 ```shell
 cd kartpostal
