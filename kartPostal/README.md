@@ -1,4 +1,4 @@
-# kartpostal
+# Flutter Kartpostal Uygulaması
 
 A new Flutter project.
 
